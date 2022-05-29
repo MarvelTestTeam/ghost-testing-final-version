@@ -15,7 +15,7 @@ Paso 5: Clonar el repositorio git a traves del siguiente link: https://github.co
 
 Paso 6: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clonado, el comando: npm install
 
-Paso 7: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clonado, el comando: npm i faker
+Paso 7: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clonado, el comando: npm install @faker-js/faker@6.3.1 --save-dev
 
 Paso 8: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clonado, el comando: npm i cypress
 
