@@ -31,7 +31,7 @@ Paso 12: Una vez que se haya abierto la interfaz de cypress ejecutar las pruebas
 
 Los issues encontrados en la herramienta ghost fueron reportados en el espacio para issues del repositorio, a continuación el link para acceder:
 
-https://github.com/MarvelTestTeam/ghost-input-data-tests/issues
+[https://github.com/MarvelTestTeam/ghost-input-data-tests/issues](https://github.com/MarvelTestTeam/ghost-testing-final-version/issues)
 
 ## DATOS DEL PROYECTO
 
