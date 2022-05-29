@@ -1,0 +1,140 @@
+[
+    {
+      "tag_name": "pets",
+      "tag_color": "3ee568",
+      "tag_slug": "pets-tag",
+      "tag_description": "posts about pets",
+      "tag_meta_data": {
+          "meta_title":"pets Info",
+          "meta_description":"info about pets",
+          "meta_canonical_url":"http://localhost:3002/tag/pets-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"pets twitter",
+          "twitter_description":"pets twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"pets facebook",
+          "facebook_description":"pets facebook account"
+      },
+      "tag_code_injection": {
+          "tag_header":"Header Style",
+          "tag_footer":"Footer Style"
+      }
+    },
+    {
+      "tag_name": "computers",
+      "tag_color": "231ff4",
+      "tag_slug": "computers-tag",
+      "tag_description": "posts about computers",
+      "tag_meta_data": {
+          "meta_title":"computers info",
+          "meta_description":"info about computers",
+          "meta_canonical_url":"http://localhost:3002/tag/computers-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"computers twitter",
+          "twitter_description":"computers twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"computers facebook",
+          "facebook_description":"computers facebook account"
+      },
+      "tag_code_injection": {
+        "tag_header":"Header Style",
+        "tag_footer":"Footer Style"
+      }
+    },
+    {
+      "tag_name": "books",
+      "tag_color": "f2852c",
+      "tag_slug": "books-tag",
+      "tag_description": "Posts about books",
+      "tag_meta_data": {
+          "meta_title":"books info",
+          "meta_description":"info about books",
+          "meta_canonical_url":"http://localhost:3002/tag/books-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"books twitter",
+          "twitter_description":"books twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"books facebook",
+          "facebook_description":"books facebook account"
+      },
+      "tag_code_injection": {
+        "tag_header":"Header Style",
+        "tag_footer":"Footer Style"
+      }
+    },
+    {
+      "tag_name": "travels",
+      "tag_color": "e8f43e",
+      "tag_slug": "travels-tag",
+      "tag_description": "Posts about travels",
+      "tag_meta_data": {
+          "meta_title":"travels info",
+          "meta_description":"info about V",
+          "meta_canonical_url":"http://localhost:3002/tag/travels-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"travels twitter",
+          "twitter_description":"travels twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"travels facebook",
+          "facebook_description":"travels facebook account"
+      },
+      "tag_code_injection": {
+        "tag_header":"Header Style",
+        "tag_footer":"Footer Style"
+      }
+    },
+    {
+      "tag_name": "foods",
+      "tag_color": "a56d55",
+      "tag_slug": "foods-tag",
+      "tag_description": "Posts about foods",
+      "tag_meta_data": {
+          "meta_title":"foods info",
+          "meta_description":"info about foods",
+          "meta_canonical_url":"http://localhost:3002/tag/foods-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"foods twitter",
+          "twitter_description":"foods twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"foods facebook",
+          "facebook_description":"foods facebook account"
+      },
+      "tag_code_injection": {
+        "tag_header":"Header Style",
+        "tag_footer":"Footer Style"
+      }
+    },
+    {
+      "tag_name": "cars",
+      "tag_color": "403535",
+      "tag_slug": "cars-tag",
+      "tag_description": "Posts about cars",
+      "tag_meta_data": {
+          "meta_title":"cars info",
+          "meta_description":"info about cars",
+          "meta_canonical_url":"http://localhost:3002/tag/cars-tag"
+      },
+      "tag_twitter_card": {
+          "twitter_title":"cars twitter",
+          "twitter_description":"cars twitter account"
+      },
+      "tag_facebook_card": {
+          "facebook_title":"cars facebook",
+          "facebook_description":"cars facebook account"
+      },
+      "tag_code_injection": {
+        "tag_header":"Header Style",
+        "tag_footer":"Footer Style"
+      }
+    }
+   ]
