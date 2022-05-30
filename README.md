@@ -1,6 +1,15 @@
-# EJECUCIÓN AMBIENTE DE PRUEBAS CON GENERACIÓN DE DATOS USANDO CYPRESS - SEMANA 7
+# ESTRATEGIA DE PRUEBAS PARA 8 SEMANAS - ENTREGA SEMANA 8
+
+## ARCHIVO CON ESTRATEGIA
+
+A continiación se encuentra el link para acceder al documento con toda la información de la estrategía de pruebas diseñada para las ocho semanas
+
+https://docs.google.com/document/d/1tu55q0V93ibqXOpXY2lm4LMBJoiLceciBsR0EGA1Oqg/edit?usp=sharing
+
+# EJECUCIÓN SEMANA 1 DE LAS ESTRATEGIA DE 8 SEMANAS
 
 ## PASO A PASO
+
 Paso 1: Instalar Docker, ingrese a la siguiente pagina https://docs.docker.com/desktop/ y elija su sistema operativo luego siga las intrucciones de instalación. 
 
 Paso 2: Ingrese a la pagina https://hub.docker.com/_/ghost?tab=description escoger la version 4.47.0 y asiganr el puerto 3002, esto lo debera hacer en la terminal de su computador una vez haya instalado docker. Para este paso tambien puede simplemente ejecutar el siguiente comando:
