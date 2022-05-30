@@ -12,6 +12,10 @@ A continiación se encuentra el link para acceder al documento con toda la infor
 
 https://docs.google.com/spreadsheets/d/1v80vj992lA380vOG7c0jGlx7IeaVEpik/edit?usp=sharing&ouid=100699226359371357418&rtpof=true&sd=true
 
+## VIDEO ENTREGA FINAL
+
+https://drive.google.com/file/d/1fVLyo2AALp4cW7glKbAr7hx_WxMIgWzt/view?usp=sharing
+
 # EJECUCIÓN SEMANA 1 DE LAS ESTRATEGIA DE 8 SEMANAS
 
 ## PASO A PASO
