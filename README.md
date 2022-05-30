@@ -54,7 +54,7 @@ Paso 10: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clo
 
 Paso 11: Ejecutar en la terminal, estando ubicado en la carpeta del proyecto clonado, el comando: cypress open
 
-Paso 12: Una vez que se haya abierto la interfaz de cypress ejecutar las pruebas dando clic en Run 120 integration specs
+Paso 12: Una vez que se haya abierto la interfaz de cypress ejecutar las pruebas dando clic en Run 60 integration specs
 
 ## Issues -> defectos por manejo de datos inválidos
 
