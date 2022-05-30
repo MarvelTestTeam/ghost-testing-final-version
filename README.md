@@ -12,6 +12,16 @@ A continiación se encuentra el link para acceder al documento con toda la infor
 
 https://docs.google.com/spreadsheets/d/1v80vj992lA380vOG7c0jGlx7IeaVEpik/edit?usp=sharing&ouid=100699226359371357418&rtpof=true&sd=true
 
+## DATOS DE ACCESO JIRA
+
+Gmail1: 
+Usuario : Testunia Pruebasauto
+             Correo: misopruebasautomatizadas@gmail.com 
+Password: Misopruebas03042022
+Jira: 
+Usuario: misopruebasautomatizadas 
+Password: Misopruebas03042022 
+
 ## VIDEO ENTREGA FINAL
 
 https://drive.google.com/file/d/1fVLyo2AALp4cW7glKbAr7hx_WxMIgWzt/view?usp=sharing
