@@ -1,10 +1,16 @@
 # ESTRATEGIA DE PRUEBAS PARA 8 SEMANAS - ENTREGA SEMANA 8
 
-## ARCHIVO CON ESTRATEGIA
+## ARCHIVO CON ESTRATEGIA GENERAL
 
 A continiación se encuentra el link para acceder al documento con toda la información de la estrategía de pruebas diseñada para las ocho semanas
 
 https://docs.google.com/document/d/1tu55q0V93ibqXOpXY2lm4LMBJoiLceciBsR0EGA1Oqg/edit?usp=sharing
+
+## ARCHIVO CON ESTRATEGIAS DE EXPLORACIÓN
+
+A continiación se encuentra el link para acceder al documento con toda la información de laS estrategíaS de exploración
+
+https://docs.google.com/spreadsheets/d/1v80vj992lA380vOG7c0jGlx7IeaVEpik/edit?usp=sharing&ouid=100699226359371357418&rtpof=true&sd=true
 
 # EJECUCIÓN SEMANA 1 DE LAS ESTRATEGIA DE 8 SEMANAS
 
