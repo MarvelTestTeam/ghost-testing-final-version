@@ -15,25 +15,25 @@ context('Actions', () => {
 
     it('PR020', () => {
         cy.contains('Tags').click();
-        cy.wait(2000)
+        cy.wait(4000)
         cy.screenshot();
         cy.contains('New tag').click();
-        cy.wait(2000)
+        cy.wait(4000)
         cy.screenshot();
         cy.get('#tag-name').type(datapool[4].tag_name);
-        cy.wait(2000)
+        cy.wait(4000)
         cy.screenshot();
         cy.xpath('/html/body/div[2]/div/main/section/form/div[2]/section/div[3]/div[1]/button/span').click();
-        cy.wait(2000);
+        cy.wait(4000);
         cy.screenshot();
         cy.get('#og-description').type(datapool[4].tag_facebook_card.facebook_description);
-        cy.wait(2000);
+        cy.wait(4000);
         cy.screenshot();
         cy.contains('Save').click();
-        cy.wait(2000)
+        cy.wait(4000)
         cy.screenshot();
         cy.contains('Tags').click();
-        cy.wait(2000)
+        cy.wait(4000)
         cy.screenshot();
     })
 })
